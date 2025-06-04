@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently studying **LLM from Stratch, LangChain**
-- 🌱 I’m learning **CI/CD, AWS infrastructure, and **
+- 🌱 I’m learning **CI/CD, AWS infrastructure, and Kubernetes**
 - 🧠 I love solving backend challenges using **Java, Spring, and SQL**
 - ⚡ Fun fact: I enjoy riverside walks 🌊 and love hot summer weather ☀️
 

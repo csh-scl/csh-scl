@@ -3,11 +3,9 @@
 
 ---
 
-- 🔭 I’m currently working on a **web game project using WebSocket and SharedWorker**
-- 🌱 I’m learning **CI/CD, AWS infrastructure, and quantum computing**
+- 🔭 I’m currently studying **LLM from Stratch, LangChain**
+- 🌱 I’m learning **CI/CD, AWS infrastructure, and **
 - 🧠 I love solving backend challenges using **Java, Spring, and SQL**
-- 💬 Ask me about **REST API, session management, or server-client architecture**
-- 📫 Reach me at: **sunghyun@example.com**
 - ⚡ Fun fact: I enjoy riverside walks 🌊 and love hot summer weather ☀️
 
 ---
@@ -35,17 +33,8 @@
 ### 🎯 Currently Interested In
 
 - ☁️ Cloud deployment & monitoring with **AWS**
-- 🧪 Applying **AI models** to NLP projects
+- 🧪 Applying **AI models** to LLM projects
 - 🛠 Building robust **multi-page apps with WebSocket**
 - 📊 Efficient **database design & optimization**
 
 ---
-
-### 🚀 My Recent Projects
-
-- 🎮 [Liar Game - Web-based social game using WebSocket](https://github.com/your-repo)
-- 📊 [YouTube Spam Comment Classifier using Streamlit](https://github.com/your-repo)
-- 🧠 [Love Chat Analyzer - Sentiment AI for couple conversations](https://github.com/your-repo)
-
----
-

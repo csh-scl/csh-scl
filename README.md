@@ -21,14 +21,12 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats & 🏅 Baekjoon Online Judge
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=csh-scl&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csh-scl&layout=compact&theme=tokyonight" width="48%" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nikita113" width="48%" />
 </p>
-
----
 
 ### 🎯 Currently Interested In
 

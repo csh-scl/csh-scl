@@ -21,12 +21,20 @@
 
 ---
 
-## 📈 GitHub Stats & 🏅 Baekjoon Online Judge
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=csh-scl&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nikita113" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csh-scl&layout=compact&theme=tokyonight" width="48%" />
 </p>
+
+---
+
+### 🏅 Baekjoon Online Judge
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nikita113)](https://solved.ac/nikita113)
+
+---
 
 ### 🎯 Currently Interested In
 
